@@ -1,0 +1,15 @@
+{
+    "getSelfProcessInfo" : 300,
+    "getProcessInfo" : 300,
+    "getSSLLinkInfo" : 300,
+    "getSwizzleInfo" : 300,
+    "getDevReuseInfo" : 300,
+    "getiHostNameConfig" : 300,
+    "getMotionInfo" : 300,
+    "getLocation" : 30,
+    "getWlanInfo" : 2000,
+    "getMobileInfo" : 300,
+    "getInstalledApps" : 300,
+    "getDebugInfo" : 30,
+    "getDeviceProp" : 300,
+}

@@ -1,0 +1,6 @@
+#import "GeneratedPluginRegistrant.h"
+
+#import <RiskManage/RiskStub.h>
+
+#define stringkey @"+a88XBOU/bvfk6al7SliepolWno9uu5w3SVdmZOdsQkDe/l40hNr+hOuZf3kEO7Rp0uduziBmiecyByzPfHbPwBiNk/4LOBKZJN+QrMcXZ3PiFbccIbT2eKPVkFe7zIxwsa6IwPxwVnSjEuNMEc6UIsKCNKZLC/WyphfJIvKfbTF5/g0D+UZvW3iNT0Xmo0FsDdo4q3J2LsLeIL0y8qCvjU6CobBeHep92SGKNDZ/AFJxmF1+tvl9vTcaAqFXmI+"
+
