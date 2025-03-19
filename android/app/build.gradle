@@ -42,3 +42,15 @@ android {
 flutter {
     source = "../.."
 }
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation(name:'appsec-sdk-release-public_5.2.7_20250220',ext:'aar');
+}
+
